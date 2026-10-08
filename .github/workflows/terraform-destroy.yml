@@ -1,4 +1,4 @@
-name: "Terraform Destroy Prod Env"
+name: "Terraform Destroy"
 
 on:
   workflow_dispatch:
