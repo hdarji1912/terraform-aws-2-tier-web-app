@@ -1,4 +1,4 @@
-name: "Terraform Multi-Env CI/CD"
+name: "Terraform Multi-Env"
 
 on:
   push:
