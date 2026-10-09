@@ -1,4 +1,4 @@
-# 🚀 Terraform Multi-Environment using GitHub Actions
+# Terraform Multi-Environment using GitHub Actions
 
 A production-style **Infrastructure as Code (IaC)** project that uses **Terraform, GitHub Actions, Trivy, and AWS** to provision and manage multiple isolated environments.
 
@@ -8,9 +8,6 @@ The project demonstrates how infrastructure can be automatically validated, secu
 ---
 ## 🏗️ Architecture Overview
 
-![Terraform](/image/TerraformFlow.png)
-
----
 
 ### Infrastructure Components
 This project deploys a **highly available, secure, and scalable** 2-tier web application architecture:
