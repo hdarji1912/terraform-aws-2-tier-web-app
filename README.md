@@ -13,7 +13,7 @@ The project demonstrates how infrastructure can be automatically validated, secu
 ---
 ##  Prerequisites & Setup  in Plan.md
 
-[View First Setup](Plan.md)
+[View First Setup]( Action.md)
 
 
 ## Terraform Plan
